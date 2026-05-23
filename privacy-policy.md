@@ -162,3 +162,4 @@ Politika zamanla güncellenebilir.
 📩 İletişim
 
 📧 turkenyazilim@gmail.com
+Kullanım Koşulları (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
